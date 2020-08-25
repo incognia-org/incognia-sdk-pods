@@ -83,6 +83,17 @@ Returns through a block a NSDictionary containing the consent status for each co
 + (void)clearUserId;
 
 /**
+ Sets the user address.
+ This value is persisted locally.
+*/
++ (void)setUserAddress:(ICGUserAddress *)userAddress;
+
+/**
+ Clears the current persisted user address.
+*/
++ (void)clearUserAddress;
+
+/**
 Asynchronously retrieves the current installation id.
 */
 + (void)getInstallationId:(ICGStringBlock)block;
