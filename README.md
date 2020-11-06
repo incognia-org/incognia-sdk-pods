@@ -1,6 +1,6 @@
 ![Alt logoImage][logo]
 
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/IncogniaSDK.svg)](https://cocoapods.org/pods/IncogniaSDK)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Incognia.svg)](https://cocoapods.org/pods/Incognia)
 
 Incognia SDK
 ===
