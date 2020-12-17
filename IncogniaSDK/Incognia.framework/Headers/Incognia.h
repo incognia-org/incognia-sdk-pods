@@ -10,6 +10,7 @@
 #define Incognia_h
 
 #import <Incognia/ICGIncognia.h>
+#import <Incognia/ICGIncogniaDemo.h>
 
 #import <IncogniaCore/ICGError.h>
 #import <IncogniaCore/ICGUserAddress.h>

@@ -2,6 +2,11 @@
 # CHANGELOG
 All notable changes to this project will be documented in this file
 
+## [5.6.0](https://github.com/incognia-org/incognia-sdk-pods/releases/tag/5.6.0) (17/12/2020)
+
+### Feature:
+* Adds public demo interface
+
 ## [5.5.1](https://github.com/incognia-org/incognia-sdk-pods/releases/tag/5.5.1) (27/11/2020)
 
 ### Fix:
