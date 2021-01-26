@@ -2,6 +2,14 @@
 # CHANGELOG
 All notable changes to this project will be documented in this file
 
+## [5.7.0](https://github.com/incognia-org/incognia-sdk-pods/releases/tag/5.7.0) (26/01/2021)
+
+### Feature:
+* Improves data collection
+
+### Fix:
+* Fixes internal event issue
+
 ## [5.6.1](https://github.com/incognia-org/incognia-sdk-pods/releases/tag/5.6.1) (19/01/2021)
 
 ### Fix:
