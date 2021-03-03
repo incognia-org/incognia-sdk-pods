@@ -14,6 +14,7 @@
 
 #import <IncogniaCore/ICGError.h>
 #import <IncogniaCore/ICGUserAddress.h>
+#import <IncogniaCore/ICGTransactionAddress.h>
 #import <IncogniaCore/ICGConsentTypes.h>
 
 #endif /* Incognia_h */

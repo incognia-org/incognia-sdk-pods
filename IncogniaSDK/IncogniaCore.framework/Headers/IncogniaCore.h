@@ -15,6 +15,7 @@
 #import <IncogniaCore/ICGConsentResult.h>
 #import <IncogniaCore/ICGConsentDialogOptions.h>
 #import <IncogniaCore/ICGUserAddress.h>
+#import <IncogniaCore/ICGTransactionAddress.h>
 #import <IncogniaCore/ICGCheckIn.h>
 
 #endif /* Header_h */
